@@ -1,2 +1,10 @@
-# paintjs
-Painting Board made wiht VaillaJS
+# ✏️ PaintJS
+## 동기
+- html, css, js를 다시 공부해보려고 여러 추천글을 찾아보는데, 가장 많은 글이 nomadcoders 추천글이었다.
+- 클론 코딩을 주로 하고 어느정도 지식이 있는 상황에서 어떻게 프로젝트를 실행하는지 프로세스가 궁금해서 수강하기로 함
+## 어려운 점
+- 니꼴라스쌤도 이 프로젝트를 하면서 많이 배웠다고 하셨다.
+- <canvas>나 context와 같은 모르는 태그나 속성이 나왔고, 결국 뭘 모르는지 몰라서 못만드는 느낌을 받아서 조금 속상..
+- 그래도 기본적인 구조 (클래스는 언제쓰고, id는 언제쓰고 css에서 자식 클래스를 이용해 어떻게 속성을 부여하는지..) 를 알게 된 느낌이라 좋고, 계획 중인 미니프로젝트를 어떻게 구상해야할지 조금 감이 잡히는 느낌?
+## reference
+- https://nomadcoders.co/javascript-for-beginners-2/lobby
